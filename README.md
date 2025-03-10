@@ -12,7 +12,17 @@ The **Super Mart Billing System** is a Java-based application designed for effic
 
 ## **Technologies Used**  
 - Java (JavaFX for UI)  
-- Collections (HashMap for cart management)  
+- Collections (HashMap for cart management)
+
+## Main Files Location
+
+The primary source code files are located in:
+
+```
+C:\Super-Mart-Billing-System\demo\src\main\java\com\example\demo
+```
+
+Navigate to this directory to access the core Java files of the Super Mart Billing System.
 
 ## **Installation & Setup**  
 1. Clone this repository:  
@@ -27,5 +37,9 @@ The **Super Mart Billing System** is a Java-based application designed for effic
 - Select product categories and add items to the cart.  
 - Proceed to checkout to view the total bill with GST.  
 - Confirm the order to generate a receipt.  
-- View previous orders from the order history section. 
+- View previous orders from the order history section.
+
+
+
+
 
